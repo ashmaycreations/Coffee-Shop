@@ -1,0 +1,70 @@
+.container-full {
+    background-color: #3b2c23;
+    margin: 0 auto;
+    width: 100%;
+}
+#title {
+    color: #3b2c23;
+}
+.navbar {
+    max-width: 900px;
+}
+nav {
+    margin-bottom: 20px;
+}
+div .card {
+    margin-right: 16px;
+}
+.menu {
+    text-align: center;
+}
+.eatbox, .drinkbox, .sweetbox {
+    margin-bottom: 60px;
+    color: #232323;
+}
+#card {
+    border: 3px solid #232323;
+}
+a:link {
+    color: #232323;
+}
+a:visited {
+    color: #232323;
+}
+a:active {
+    color: #232323;
+}
+#t1, #t3 {
+    color: #bfb0a2;
+}
+#t2 {
+    color: #5b4c41;
+}
+.eatbox {
+    background-color: #5b4c41;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin-top: 50px;
+
+}
+.drinkbox {
+    background-color: #bfb0a2;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin-top: 60px;
+}
+.sweetbox {
+    background-color: #5b4c41;
+    padding-bottom: 30px;
+    padding-top: 20px;
+    margin-top: 60px;
+}
+hr.style13 {
+	height: 10px;
+	border: 0;
+	box-shadow: 0 10px 10px -10px #8c8b8b inset;
+}
+
+
+
+
